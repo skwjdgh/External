@@ -24,9 +24,7 @@ External/
 ├── r/
 ├── seminar/ 
 └── tools/
-    ├── vscode.md
-    ├── docker.md
-    └── cloud.md
+
 ```
 ---
 
