@@ -1,5 +1,5 @@
 <h1 align="center">
-        <a href="https://github.com/skwjdgh/skwjdgh/blob/main/README_ENG.md">
+        <a href="https://github.com/skwjdgh">
     <img align="center" src="https://img.shields.io/badge/goto-Main-green.svg" />
   </a>
 </h1>
