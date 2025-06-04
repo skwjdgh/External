@@ -15,7 +15,7 @@
 
 
 - 📊 [R 문서 소개]
-- 🧑‍🏫 [Seminar 문서 소개](https://github.com/skwjdgh/related-with-AI-semi-)
+- 🧑‍🏫 [T&S 문서 소개](https://github.com/skwjdgh/Theory-and-Seminar)
 - 🛠️🧩🐳☁️ [Tool 언어 문서 소개](https://github.com/skwjdgh/Tools)
 
 
